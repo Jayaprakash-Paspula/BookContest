@@ -1,0 +1,29 @@
+.Books{
+ background-color: black;
+ color:white;
+font-family:sans-serif;
+font-weight: 1000;
+text-align: center;
+border-style: dashed;
+border-color: blue;
+border-radius: 20px;
+}
+.register{
+    background-color: black;
+    color:white;
+   font-family:sans-serif;
+   font-weight: 1000;
+   border-style: dashed;   
+   border-color: rgb(243, 9, 153);
+   border-radius: 20px;
+}
+.page{
+    background-color: rgb(65, 141, 75);
+    width:500px;
+    height:600px;
+    text-align: center;
+}
+.img{
+    width:450px;
+    height:550px;
+}
